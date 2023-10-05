@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
+    margin-bottom: 300px;
 } 
 .top-section {
     background: #fbfbfb;
@@ -28,4 +29,22 @@ body{
 #btn-taxt-color{
     background: #24b724;
     color: white;
+}
+.genaral-terms-condition h3{
+    margin-top: 60px;
+    font-weight: 800;
+    font-size: 27px;
+}
+.genaral-terms-condition p{
+    font-size: 18px;
+}
+#BTN-OWNER-STY{
+    font-size: 20px;
+    color: gray;
+}
+#BTN-OWNER-STY:hover{
+color: #24b724;
+}
+.BORDER{
+border-bottom: 1px solid rgb(186, 186, 186);
 }
